@@ -1,0 +1,26 @@
+{
+  "name": "jquery-validate",
+  "version": "1.0.1",
+  "description": "jquery.fn.validate HTML5 local&remote validate",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "HTML5",
+    "validate"
+  ],
+  "author": {
+    "name":"cloudcome",
+    "email":"cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery-validate"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery-validate.js",
+    "dependencies": {}
+  }
+}
